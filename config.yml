@@ -1,4 +1,4 @@
 development:
-  password: "admin acces API key"
-  theme_id: ""
-  store: [your-store-myshopify.com]
+  password: api admin acces key
+  theme_id: "some numbers"
+  store: your-store.myshopify.com
