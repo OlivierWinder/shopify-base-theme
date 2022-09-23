@@ -1,0 +1,6 @@
+when you pull this theme make sure to:
+- add your info to the config.yml file (check themekit configuration)
+
+and every time you open the file in your editor
+- run npx watch
+- run theme watch --allow-live
